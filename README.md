@@ -1,1 +1,1 @@
-# Leda-AI-eBook-Workflow
+# Leda-Fashion-eBook-Python-Workflow
